@@ -1,0 +1,18 @@
+.productList table {
+  margin-left: 30%;
+  margin-right: 30%;
+}
+.productList td {
+  margin-right: 20%;
+  margin-bottom: 20%;
+}
+.productList img {
+  height: 40vh;
+}
+.productList button {
+  background-color: white;
+  border: 1px solid white;
+}
+.productList {
+  color: green;
+}

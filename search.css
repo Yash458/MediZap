@@ -1,0 +1,15 @@
+.container {
+  background-color: white;
+  width: 175px;
+  margin-left: 9px;
+  border-radius: 3px;
+}
+a {
+  text-decoration: none;
+  color: black;
+  background-color: red;
+}
+p {
+  font-size: 14px;
+  padding: 3px 0px 3px 10px;
+}
